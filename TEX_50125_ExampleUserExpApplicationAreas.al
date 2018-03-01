@@ -1,4 +1,4 @@
-tableextension 50125 ExpTierSetup extends "Experience Tier Setup"
+tableextension 50125 ExpTierSetup extends "Experience Tier Setup" 
 {
     fields
     {
